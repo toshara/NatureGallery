@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/NaturesGallery/static/css/main.388078a9.css",
-    "main.js": "/NaturesGallery/static/js/main.f9742588.js",
-    "index.html": "/NaturesGallery/index.html",
-    "main.388078a9.css.map": "/NaturesGallery/static/css/main.388078a9.css.map",
-    "main.f9742588.js.map": "/NaturesGallery/static/js/main.f9742588.js.map"
+    "main.css": "/NatureGallery/static/css/main.388078a9.css",
+    "main.js": "/NatureGallery/static/js/main.f9742588.js",
+    "index.html": "/NatureGallery/index.html",
+    "main.388078a9.css.map": "/NatureGallery/static/css/main.388078a9.css.map",
+    "main.f9742588.js.map": "/NatureGallery/static/js/main.f9742588.js.map"
   },
   "entrypoints": [
     "static/css/main.388078a9.css",
